@@ -1,5 +1,5 @@
 *{box-sizing: border-box}
-body{font-family: cursive;}
+body{font-family: ubuntu;}
 .container{
     margin: 20px;
     width: 94%;
@@ -175,7 +175,7 @@ hr{
     height: 55px;
     display: inline-block;
     background-color: aquamarine;
-    color: #FFF;
+    color: black;
     font-size: 24px;
     margin-right: 10px;
     line-height: 55px;
